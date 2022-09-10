@@ -43,5 +43,6 @@ namespace Inventory_Management_Project.Data_Access_Layer
         }
         //We can alse close sql by using Dispose() methd. For that we need inheru=it IDespose interface 1st.
         */
+        
     }
 }
